@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Some errors is coming and solved
+=======
+Updated this files 
+>>>>>>> b79e780aacce8b71ea332d73c14def66204608c8
 
 
 some changes in tis file
